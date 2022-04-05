@@ -1,0 +1,50 @@
+.fondorojo{
+    background-color: red;
+}
+
+.fondoazul{
+    background-color: blue;
+}
+
+.fondoamarillo{
+    background-color: yellow;
+}
+
+.fondorosa{
+    background-color: pink;
+}
+
+
+.colorrojo{
+    color: red;
+}
+
+.colorazul{
+    color: blue;
+}
+
+body{
+    background-image: url("fondo2.jpg");
+    background-repeat: repeat-y;
+    background-size: 100rem;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.borde{
+    margin: auto;
+    width: 50%;
+    border: 3px solid greenyellow;
+    
+}
+
+.bordesolo{
+    border: 5px solid rgb(105, 170, 248);
+       
+}
+
+nav{
+    background-color: aqua;
+}
